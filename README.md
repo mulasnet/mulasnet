@@ -7,9 +7,9 @@
 
 <h3 align="center">🔌 Connect with me 🔌</h3>
 <p align="center">
-<a href="https://t.me/mulasrip" target="blank"><img align="center" src="http://mulas.rip/media/telegram.png" alt="mulasrip" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/sergio-mulas/" target="blank"><img align="center" src="http://mulas.rip/media/linkedin.png" alt="sergio mulas" height="30" width="40" /></a>
-</a><a href="https://twitter.com/oritsbad" target="blank"><img align="center" src="http://mulas.rip/media/twitter.png" alt="oritsbad" height="30" width="40" /></a>
+<a href="https://t.me/mulasrip" target="blank"><img align="center" src="http://mulas.rip/media/telegram.svg" alt="mulasrip" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/sergio-mulas/" target="blank"><img align="center" src="http://mulas.rip/media/linkedin.svg" alt="sergio mulas" height="30" width="40" /></a>
+</a><a href="https://twitter.com/oritsbad" target="blank"><img align="center" src="http://mulas.rip/media/twitter.svg" alt="oritsbad" height="30" width="40" /></a>
 </p>
 
 <h3 align="center">💻 Languages and Tools 🔨</h3>
